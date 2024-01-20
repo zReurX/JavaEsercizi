@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package classe;
 import java.util.Scanner;
 
 public class Biblioteca {

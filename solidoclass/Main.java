@@ -1,5 +1,6 @@
-
 package solidoclass;
+import solidoclass.classe.Sfrera;
+import solidoclass.classe.Cubo;
 
 public class Main {
     public static void main(String[] args) {

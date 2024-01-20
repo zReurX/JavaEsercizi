@@ -1,4 +1,4 @@
-package solidoclass;
+package solidoclass.classe;
 
 public abstract class Solido {
     private double pesoSpecifico;

@@ -1,4 +1,4 @@
-package solidoclass;
+package solidoclass.classe;
 
 public class Cubo extends Solido {
     private double lato;

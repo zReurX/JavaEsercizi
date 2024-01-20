@@ -1,3 +1,4 @@
+package classe;
 import java.util.Scanner;
 
 public class Libro {

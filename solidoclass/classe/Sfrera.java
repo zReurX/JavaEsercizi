@@ -1,4 +1,4 @@
-package solidoclass;
+package solidoclass.classe;
 
 public class Sfrera extends Solido {
     private double raggio;
